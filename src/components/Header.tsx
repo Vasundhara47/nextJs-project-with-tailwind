@@ -21,6 +21,9 @@ function Header() {
                     <li className='hover:text-sky-600 '>
                         <Link href="#" >Contact</Link>
                     </li>
+                     <li className='hover:text-sky-600 '>
+                        <Link href="#" >Carrer</Link>
+                    </li>
                 </ul>
                 <button className='bg-sky-950 text-white px-4 py-2 rounded-md'>
                     <Link href="/login" >Log In</Link>
